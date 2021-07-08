@@ -7,3 +7,15 @@
 ___
 - Eric Daniel Mena
 
+## Sitios de referencia
+
+- Sitio elegido por su estética: [Arcor en casa](https://arcorencasa.com/)
+
+## Paleta de colores
+
+- Color de fondo: #E2DD66
+- Color de header: #EF8F6B
+
+## Tipografías
+
+- General : [Quiksand](https://fonts.google.com/specimen/Quicksand)
